@@ -1,0 +1,107 @@
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.exe.config
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.exe
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.pdb
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csprojAssemblyReference.cache
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.Properties.Resources.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.GenerateResource.cache
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.exe
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.pdb
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypBellik.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmBolumler.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmAnaForm.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmOdemeler.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypList.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypTazele.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmCykdayjy.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGiderList.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGiderGuncelle.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGirdejiStatistik.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmAdminGiris.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmUlanyjyDuzelt.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmPersonal.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Interop.WMPLib.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\AxInterop.WMPLib.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\Interop.WMPLib.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\AxInterop.WMPLib.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.ResolveComReference.cache
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmDepderce.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\RdlCompile.cache
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\RdlCompile.compiled
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.CopyComplete
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypHasabat.resources
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.CoreCompileInputs.cache
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.exe.config
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.exe
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.pdb
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Interop.WMPLib.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\AxInterop.WMPLib.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csprojAssemblyReference.cache
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\Interop.WMPLib.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\AxInterop.WMPLib.dll
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.ResolveComReference.cache
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmDepderce.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmPersonal.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypHasabat.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmUlanyjyDuzelt.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmAdminGiris.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmAnaForm.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmBolumler.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmCykdayjy.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGiderGuncelle.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGiderList.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGirdejiStatistik.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmOdemeler.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypBellik.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypList.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypTazele.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.Properties.Resources.resources
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.GenerateResource.cache
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.CoreCompileInputs.cache
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.CopyComplete
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.exe
+E:\Guwanç Son Sınıf Yedek\D Disk\Guvanç Yazgulyyew Program Kod\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.pdb
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.exe.config
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.exe
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\TalyplarOyiSystema.pdb
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\Interop.WMPLib.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\bin\Debug\AxInterop.WMPLib.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csprojAssemblyReference.cache
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\Interop.WMPLib.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\AxInterop.WMPLib.dll
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.ResolveComReference.cache
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmDepderce.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmPersonal.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypHasabat.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmUlanyjyDuzelt.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmAdminGiris.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmAnaForm.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmBolumler.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmCykdayjy.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGiderGuncelle.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGiderList.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmGirdejiStatistik.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmOdemeler.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypBellik.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypList.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.FrmTalypTazele.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.Properties.Resources.resources
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.GenerateResource.cache
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.CoreCompileInputs.cache
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.csproj.CopyComplete
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.exe
+D:\Proje\C#\Proje\60 Ders SQL C# Talyplar öyi systemasy\TalyplarOyiSystema\obj\Debug\TalyplarOyiSystema.pdb

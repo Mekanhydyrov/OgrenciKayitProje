@@ -1,0 +1,1 @@
+select OdemeAy,sum (OdemeMikdar) from kassa group by OdemeAy

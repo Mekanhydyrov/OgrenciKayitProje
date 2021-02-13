@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C422E2B4-3132-46B5-8831-7C46875C06F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TalyplarOyiSystema</RootNamespace>
+    <AssemblyName>TalyplarOyiSystema</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportViewer.VS2015.WinForms.12.0.2.2402\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmDepderce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDepderce.Designer.cs">
+      <DependentUpon>FrmDepderce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPersonal.Designer.cs">
+      <DependentUpon>FrmPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTalypHasabat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTalypHasabat.Designer.cs">
+      <DependentUpon>FrmTalypHasabat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUlanyjyDuzelt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUlanyjyDuzelt.Designer.cs">
+      <DependentUpon>FrmUlanyjyDuzelt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminGiris.Designer.cs">
+      <DependentUpon>FrmAdminGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnaForm.Designer.cs">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBolumler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBolumler.Designer.cs">
+      <DependentUpon>FrmBolumler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCykdayjy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCykdayjy.Designer.cs">
+      <DependentUpon>FrmCykdayjy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGiderGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiderGuncelle.Designer.cs">
+      <DependentUpon>FrmGiderGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGiderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiderList.Designer.cs">
+      <DependentUpon>FrmGiderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGirdejiStatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGirdejiStatistik.Designer.cs">
+      <DependentUpon>FrmGirdejiStatistik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOdemeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOdemeler.Designer.cs">
+      <DependentUpon>FrmOdemeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTalypBellik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTalypBellik.Designer.cs">
+      <DependentUpon>FrmTalypBellik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTalypList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTalypList.Designer.cs">
+      <DependentUpon>FrmTalypList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTalypTazele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTalypTazele.Designer.cs">
+      <DependentUpon>FrmTalypTazele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlBaglanti.cs" />
+    <Compile Include="TalyplarOyiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TalyplarOyiDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TalyplarOyiDataSet7.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmDepderce.resx">
+      <DependentUpon>FrmDepderce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPersonal.resx">
+      <DependentUpon>FrmPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTalypHasabat.resx">
+      <DependentUpon>FrmTalypHasabat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUlanyjyDuzelt.resx">
+      <DependentUpon>FrmUlanyjyDuzelt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminGiris.resx">
+      <DependentUpon>FrmAdminGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnaForm.resx">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBolumler.resx">
+      <DependentUpon>FrmBolumler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCykdayjy.resx">
+      <DependentUpon>FrmCykdayjy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGiderGuncelle.resx">
+      <DependentUpon>FrmGiderGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGiderList.resx">
+      <DependentUpon>FrmGiderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGirdejiStatistik.resx">
+      <DependentUpon>FrmGirdejiStatistik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOdemeler.resx">
+      <DependentUpon>FrmOdemeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTalypBellik.resx">
+      <DependentUpon>FrmTalypBellik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTalypList.resx">
+      <DependentUpon>FrmTalypList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTalypTazele.resx">
+      <DependentUpon>FrmTalypTazele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TalyplarOyiDataSet.xsc">
+      <DependentUpon>TalyplarOyiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet.xss">
+      <DependentUpon>TalyplarOyiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet1.xsc">
+      <DependentUpon>TalyplarOyiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet1.xss">
+      <DependentUpon>TalyplarOyiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet2.xsc">
+      <DependentUpon>TalyplarOyiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet2.xss">
+      <DependentUpon>TalyplarOyiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet3.xsc">
+      <DependentUpon>TalyplarOyiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet3.xss">
+      <DependentUpon>TalyplarOyiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet4.xsc">
+      <DependentUpon>TalyplarOyiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet4.xss">
+      <DependentUpon>TalyplarOyiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet5.xsc">
+      <DependentUpon>TalyplarOyiDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet5.xss">
+      <DependentUpon>TalyplarOyiDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet6.xsc">
+      <DependentUpon>TalyplarOyiDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet6.xss">
+      <DependentUpon>TalyplarOyiDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet7.xsc">
+      <DependentUpon>TalyplarOyiDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="TalyplarOyiDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TalyplarOyiDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TalyplarOyiDataSet7.xss">
+      <DependentUpon>TalyplarOyiDataSet7.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
